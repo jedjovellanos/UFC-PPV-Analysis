@@ -3,7 +3,7 @@
 
 <h2>UFC PPV Price and Buy Rates Analysis (2004-2022)</h2>
 Exploratory analysis project that compares UFC PPV prices to average buy rates between the years 2004 and 2022. Interactive Tableau dashboard can be found <a  href="https://public.tableau.com/app/profile/jed.jovellanos/viz/UFCPPVBuyRatevsPrice2004-2022/Dashboard4" target="_blank">here</a>.
-![Dashboard Preview](https://github.com/jedjovellanos/UFC-PPV-Analysis/blob/main/dashboard_preview.png)
+![dashboard_preview](https://github.com/user-attachments/assets/af204af9-adcc-4b4e-9867-c319a4b14820)
 
 <h2>Summary of Insights</h2>
 <ul>For a majority of the analysis period, customer demand appears to react more to factors other than PPV prices (fighter popularity, audience growth, etc) as highlighted in the Timeline of Influential Events on the <a href="https://public.tableau.com/app/profile/jed.jovellanos/viz/UFCPPVBuyRatevsPrice2004-2022/Dashboard4" target="_blank">dashboard</a>. </ul>
