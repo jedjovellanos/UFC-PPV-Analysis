@@ -15,9 +15,9 @@ All data was collected through reputable MMA media reporters and websites.
 
 ## Dashboard Preview
 Table showcasing YOY percent changes in average buy rates and prices
-![dashboard_table](dashboard_table.png)
+![dashboard_table](assets/dashboard_table.png)
 Area graph depicting results
-![dashboard_graph](dashboard_graph.png)
+![dashboard_graph](assets/dashboard_graph.png)
 The full interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/jed.jovellanos/viz/UFCPPVBuyRatevsPrice2004-2022/Dashboard4)
 
 ## Summary of Insights
