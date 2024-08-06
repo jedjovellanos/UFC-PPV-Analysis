@@ -21,7 +21,7 @@ Area graph depicting results
 The full interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/jed.jovellanos/viz/UFCPPVBuyRatevsPrice2004-2022/Dashboard4)
 
 ## Summary of Insights
-While some of the years with the largest percent changes in average buy rates did tend to coincide with price increases, not all price increases were met with considerable changes in buy rates.
+While some of the years with the largest percent changes in average buy rates did tend to coincide with price increases, not all price increases were met with considerable changes in buy rates. Deeper research into years that experienced notable changes in average buy rates suggests that consumer demand has not been sensitive to price changes, for the most part.
   
 ### Positive changes in buy rates and prices
 - 2006 - average buy rates increased 225.2% and prices increased 14.3%. The explosion in popularity could be largely attributed to the reality TV show _"The Ultimate Fighter"_, which first aired on Spike TV the previous year, exposing many new viewers to the sport.
